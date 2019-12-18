@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import ReactTypingEffect from 'react-typing-effect';
+import Typing from 'react-typing-animation';
+
 
 class Header extends Component {
   render() {
@@ -34,14 +37,25 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <div className="typewriter"><h1 >I'm {name}.</h1></div>
+            
+
+
+
+
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
             <hr />
+
+            
             <ul className="social">
                {networks}
             </ul>
          </div>
       </div>
+
+
+      
+
 
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
