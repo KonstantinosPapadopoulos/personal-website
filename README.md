@@ -1,2 +1,2 @@
 # personal-website
-Personal website with resume, portofolio and contact details
+Personal website with resume, portfolio and contact details
