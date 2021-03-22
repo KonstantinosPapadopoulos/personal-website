@@ -4,37 +4,34 @@
     "occupation":"Software Engineer",
     "description":"A bit of a weirdo",
     "image":"profilepic.jpg",
-    "bio":"I am a Computer Science student from the University of Southampton and Software Engineering intern at JP Morgan & Chase. I am passionate about quantitative finance and would like to apply computational approaches to the financial services industry. On my free time, I like playing tennis, participating to hackathons, studying law and recently getting involved with deepfakes.",
+    "bio": "I am working as a software engineer at JPMorgan & Chase. I've worked on different things throughout the years, most notably online payments, algorithmic trading & ecommerce development. Currently, I like spending my free time contributing to open source GraphQL + Django ecommmerce sites, like ",
     "contactmessage":"Feel free to leave me a message!",
     "email": "konstantinos5@protonmail.com",
     "phone": "+44 7518 850992",
     "address":{
-      "street":"Mayfield Rd",
-      "city":"Southampton",
+      "street":"United Kingdom",
+      "city":"",
       "state":"",
-      "zip": "SO17 3SX"
+      "zip": ""
     },
     "website": "https://konstantinospapadopoulos.com",
     "resumedownload":"/resume.pdf",
     "social":[
-      
       {
-        "name":"twitter",
-        "url":"https://twitter.com/konstantinos_p_",
-        "className":"fa fa-twitter"
+        "name":"github",
+        "url":"https://github.com/KonstantinosPapadopoulos",
+        "className":"fa fa-github"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/konstantinos-papadopoulos0/",
         "className":"fa fa-linkedin"
       },
-
       {
-        "name":"github",
-        "url":"https://github.com/KonstantinosPapadopoulos",
-        "className":"fa fa-github"
+        "name":"twitter",
+        "url":"https://twitter.com/konstpapad",
+        "className":"fa fa-twitter"
       }
-
     ]
   },
   "resume":{
@@ -44,7 +41,7 @@
         "school":"University of Southampton",
         "degree":"BSc Computer Science",
         "graduated":"June 2020",
-        "description":"Expecting a 1st class degree. My third year project involves applying LSTM models for financial asset price prediction and evaluating against more traditional techniques. I have taken modules about Algorithms, Programming, Data Structures, Cyber Security and Machine Learning. "
+        "description":"Graduated with a1st class degree. My third year project was applying LSTM models for financial asset price prediction and evaluating against more traditional techniques. I have taken modules about Algorithms, Programming, Data Structures, Cyber Security and Machine Learning. "
       },
       {
         "school":"Panhellenic Exams",
@@ -57,26 +54,26 @@
       {
         "company":"JP Morgan & Chase",
         "title":"Software Engineering Intern",
-        "years":"June 2019 - August 2019",
-        "description":"Worked as a technology intern at a software engineering project where I took ownership of the full development cycle while partnering with other developers to design a solution that optimized the previous complex workflow. This experience offered me many learning opportunities regarding my area of  interest, financial markets and different lines of business within the organization."
+        "years":"September 2020 - Now",
+        "description":"Working as a graduate software engineer for JPMorgan Chase."
       },
       {
         "company":"Dragonfly Labs",
         "title":"Quantitative Researcher",
-        "years":"October 2019 - now",
-        "description":"I am working part time along with my studies for a high frequency trading company specializing in cryptocurrency trading and market making. Part of my role is researching and applying high frequency trading models to exploit market inefficiencies."
+        "years":"October 2019 - May 2019",
+        "description":"I was working part time along with my studies for a high frequency trading startup specializing in cryptocurrency trading and market making. Part of my role was researching and applying high frequency trading models to exploit market inefficiencies."
+      },
+      {
+        "company":"JP Morgan & Chase",
+        "title":"Software Engineering Intern",
+        "years":"June 2019 - August 2019",
+        "description":"Worked as a technology intern at a software engineering project where I took ownership of the full development cycle while partnering with other developers to design a solution that optimized the previous complex workflow."
       },
       {
         "company":"Holiday Emotions",
         "title":"Web Developer",
         "years":"December 2018 – February 2019",
         "description":"Worked on a project for a travel website (https://www.holidayemotions.com) that enabled us to offer touristic activities for our customers, expanding our business model which was focusing primarily on accommodation for tourists."
-      },
-      {
-        "company":"Car 'n Motion Rent a Car",
-        "title":"Web Developer",
-        "years":"June 2018 – September 2018",
-        "description":"Worked as an intern web developer for one of the biggest car renting companies (https://www.carnmotion.gr) in Greece. My biggest responsibility was connecting our website with the web service of Enterprise Rent-A-Car. It was a great experience, where I learnt project management skills, used .NET frameworks, jQuery, HTML5, managed SQL databases and gained experience on working both as part of a team and independently."
       }
     ],
     "skills":[
@@ -174,14 +171,6 @@
         "category":"Websites",
         "image":"holidayemotions.jpg",
         "url":"https://www.holidayemotions.com/"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Konstantinos is a very hardworking individual with real passion for the job. He likes getting things done even if that means sacrificing a bit of his free time. He is the type of guy who always comes to work with a smile and will not go to sleep unless he solves that thing that has been bothering him all day.",
-        "user":"Stefanos Chrysafopoulos, ex Manager at Holiday Emotions"
       }
     ]
   }
