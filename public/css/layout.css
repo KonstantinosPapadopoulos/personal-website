@@ -236,14 +236,16 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   /* background: #fff; */
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   background: rgb(24, 26, 27);
+   color: rgb(232, 230, 227);
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#resume a:hover, #resume a:focus { color: white; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -304,7 +306,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: white;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -417,7 +419,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: rgb(32, 35, 36);
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -952,6 +954,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    color: white;
 }
 .ie footer .copyright li {
    display: inline;
