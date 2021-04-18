@@ -118,6 +118,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Tinderstonk",
+        "category":"Hobby app",
+        "image":"tinderstonk.png",
+        "url":"https://stonks.konstantinospapadopoulos.com"
+      },
+      {
         "title":"Code for Good",
         "category":"Hackathon",
         "image":"codeforgood.jpg",
